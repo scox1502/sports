@@ -1,0 +1,22 @@
+html,body {
+    background-color: rgb(90, 22, 22);
+    font-family: 
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(235, 60, 21);
+    text-shadow: 3px 3px 5px black;
+}
+
+a:link {
+color: orangered
+text-decoration: none;
+}
+a:visited {
+color: cornflowerblue;
+}
+a:hover {
+text-shadow: 2px 2px 3px black;
+}
+
